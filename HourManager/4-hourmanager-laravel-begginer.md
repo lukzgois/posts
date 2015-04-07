@@ -194,7 +194,7 @@ Abra o arquivo **resources/views/home.blade.php**. Nele temos o seguinte conteú
 @endsection
 ```
 
-Vamos remover todo o conteúdo dentro da **<div class="row">** e adicionarmos nosso botão. Para isso usaremos os estilos padrão do [Bootstrap](http://getbootstrap.com/css/).
+Vamos remover todo o conteúdo dentro da ```<div class="row">``` e adicionarmos nosso botão. Para isso usaremos os estilos padrão do [Bootstrap](http://getbootstrap.com/css/).
 
 ```html
 @extends('app')
